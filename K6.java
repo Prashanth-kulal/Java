@@ -2,11 +2,11 @@
 public class K6{
 	public static void main(String[] args){
 	int myInt;
-      myInt=85;
+        myInt=85;
 	System.out.println(myInt);
 
-      long myNumber=779999999;
-      System.out.println(myNumber);
+        long myNumber=779999999;
+        System.out.println(myNumber);
 
 	float myFloat=95.9f;
 	System.out.println(myFloat);
